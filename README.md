@@ -48,4 +48,4 @@ The Restaurant Management System is a web-based application developed using HTML
 This project simplifies restaurant operations by automating menu management, billing, and customer handling processes. It provides an efficient and user-friendly solution for restaurant management.
 
 ## Developed By
-Your Name# CodeAlpha_Restaurant-management-system-project
+sadeem# CodeAlpha_Restaurant-management-system-project
